@@ -1,8 +1,8 @@
 # sanq-strokes
 
-Stroke-order data for 4,250 Chinese characters (simplified and traditional), as used by the SanQ app.
+Stroke-order data for 4,250 Chinese characters (simplified and traditional), as used by [SanQ](https://sanq.app), the app to learn Mandarin Chinese in Spanish.
 
-Datos de orden de trazos de 4.250 caracteres chinos (simplificados y tradicionales), tal como los usa la app SanQ.
+Datos de orden de trazos de 4.250 caracteres chinos (simplificados y tradicionales), tal como los usa [SanQ](https://sanq.app), la app para aprender chino mandarín en español.
 
 ## Origin / Origen
 
